@@ -4,7 +4,7 @@
 |:-----------|
 | [一年生の履修振り返り](/pages/firstgrade-review.md) |
 | [ふとももすりすりしたい](/pages/hutomomo.md) |
-| そんなにないよ |
+| [このサイトの存在意義](/pages/target.md) |
 | つくったばっかりだよ |
 
 ## ここはなあに？
