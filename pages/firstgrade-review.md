@@ -264,7 +264,7 @@
 ***
 ## エンディング
 最終的なGPAはこんな感じでした。CAP開放はしてるんじゃないかな？（他人事） 
-![firstgrade_scoretable](/images/firstgrade_scoretable.png)
-![firstgrade_scoregraf](/images/firstgrade_scoregraf.png)
+![firstgrade_scoretable](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/images/firstgrade_scoretable.png)
+![firstgrade_scoregraf](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/images/firstgrade_scoregraf.png)
 
 みんなも楽しく大学しようね！
