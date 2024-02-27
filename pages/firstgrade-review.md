@@ -1,4 +1,7 @@
-[上に戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)
+---
+title: 一年次履修振り返り
+---
+[トップに戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)
 # 一年次履修振り返り
 本ノートはKLiS23の人が一年間大学生活を送って受けてきた授業のレビューをつらつら書くものです。    
 個人の見解です。    

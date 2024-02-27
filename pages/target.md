@@ -1,4 +1,7 @@
-[上に戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)
+---
+title: このサイトの存在意義
+---
+[トップに戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)
 # このサイトの存在意義
 いつも使ってるのは[note](https://note.com/zukimo)なわけですが、そっちもブログ立ち上げておきながら、こちらも使えるのでしょうか？     
 
