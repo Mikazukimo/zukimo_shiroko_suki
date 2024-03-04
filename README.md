@@ -5,7 +5,8 @@
 | [一年生の履修振り返り](/pages/firstgrade-review.md) |
 | [ふとももすりすりしたい](/pages/hutomomo.md) |
 | [このサイトの存在意義](/pages/target.md) |
-| つくったばっかりだよ |
+| [ホタルちゃん・・・](/pages/houkai-hotaru.md) |
+
 
 ## ここはなあに？
 ずきもがnoteに書くのもなんだかな～みたいな  
