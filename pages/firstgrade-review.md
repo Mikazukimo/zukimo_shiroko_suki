@@ -270,7 +270,7 @@ title: 一年次履修振り返り
 ***
 ## エンディング
 最終的なGPAはこんな感じでした。CAP開放はしてるんじゃないかな？（他人事）早いところ残り2単位判明してほしいものですな。     
-![firstgrade_scoretable](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoretable.png)    
+![firstgrade_scoretable](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoretable_1.png)    
 ![firstgrade_scoregraf](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoregraf.png)      
 
 みんなも楽しく大学しようね！
