@@ -272,7 +272,7 @@ title: 一年次履修振り返り
 ## エンディング
 最終的なGPAはこんな感じでした。CAP解放されました。
 CAP解放されるとメールでも通知されるし、TWINSの掲示板にも掲示されるので、確認大事ですね。     
-![firstgrade_scoretable](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoretable_2.png)    
-![firstgrade_scoregraf](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoregraf.png)      
+![firstgrade_scoretable](/pages/images/firstgrade_scoretable_2.png)    
+![firstgrade_scoregraf](/pages/images/firstgrade_scoregraf.png)      
 
 みんなも楽しく大学しようね！
