@@ -2,7 +2,7 @@
 title: 一年次履修振り返り
 ---
 [トップに戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)
-最終更新：2024/3/23 18:24
+最終更新：2024/3/30 2:08
 # 一年次履修振り返り
 本ノートはKLiS23の人が一年間大学生活を送って受けてきた授業のレビューをつらつら書くものです。    
 個人の見解です。    
@@ -262,15 +262,17 @@ title: 一年次履修振り返り
 ### 介護等体験の意義
 **A**    
 集中講義。**中学の免許が欲しい人向けです** 私取る気もないのに受けに行ってみた。暇だったので。正直、受けてよかった。いや〜特別支援学校でどんなことしてるのか知れるの、これくらいしかないでしょ。授業形態が独特で受け入れがたいけど、形骸化してるので大して気にならないと思います。 
+**どうやら私の世代は実際に学校に行って体験というのはできないらしです。そんなぁ。**
 
 ### 特別活動の理論と実践
-**？**（？）    
-工事中… 
+**A**    
+集中講義。生徒会活動とか、委員会活動などを通じて学校生活をよりよくするにはどうすればいいのかみたいなことを考える。
 
 ***
 ## エンディング
-最終的なGPAはこんな感じでした。CAP開放はしてるんじゃないかな？（他人事）早いところ残り2単位判明してほしいものですな。     
-![firstgrade_scoretable](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoretable_1.png)    
+最終的なGPAはこんな感じでした。CAP解放されました。
+CAP解放されるとメールでも通知されるし、TWINSの掲示板にも掲示されるので、確認大事ですね。     
+![firstgrade_scoretable](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoretable_2.png)    
 ![firstgrade_scoregraf](https://raw.githubusercontent.com/Mikazukimo/zukimo_shiroko_suki/main/images/firstgrade_scoregraf.png)      
 
 みんなも楽しく大学しようね！
