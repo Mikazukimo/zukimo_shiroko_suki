@@ -13,3 +13,4 @@
 メモがてら書いてるmarkdownの原稿をそのまま貼り付けるだけのサイトです。
 
 [seacret](/pages/underground/huan.md)
+[seacret2](/pages/underground/5_29.md)
