@@ -3,9 +3,7 @@
 | 最近の更新 |
 |:-----------|
 | [一年生の履修振り返り](/pages/firstgrade-review.md) |
-| [ふとももすりすりしたい](/pages/hutomomo.md) |
-| [このサイトの存在意義](/pages/target.md) |
-| [ホタルちゃん・・・](/pages/houkai-hotaru.md) |
+| [二年生の履修振り返り](/pages/secandgrade-review.md) |
 
 
 ## ここはなあに？
