@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
-  "monospaceFontFamily": "3270 Nerd Font Mono"
+  "cssTheme": "Obsidian Nord",
+  "monospaceFontFamily": "3270 Nerd Font Mono",
+  "interfaceFontFamily": "メイリオ",
+  "textFontFamily": "メイリオ"
 }
