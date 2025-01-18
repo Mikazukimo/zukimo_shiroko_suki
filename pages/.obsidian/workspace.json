@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "053ce7d56f26467e",
@@ -160,6 +161,8 @@
   },
   "active": "24c1911905eb5cba",
   "lastOpenFiles": [
+    "secandgrade-review.md",
+    "firstgrade-review.md",
     "claass/Jouhoutansaku.md",
     "ex_classes.md",
     "claass/Jouhoutansaku 1.md",
