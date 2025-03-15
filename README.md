@@ -1,7 +1,3 @@
----
-title: ずきものホームページ
----
-
 # ずきもの書庫
 
 <link rel="stylesheet" href="./css/orbit.css">
