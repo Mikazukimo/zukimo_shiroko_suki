@@ -15,7 +15,7 @@
 
 <div class="gravity-spot container" >
     <div class="orbit toumei ">
-    <a href="https://x.com/zukimo_klis23">Me</a>
+    Me
     </div>
     <div class="orbit">
         <div class="satellite rotate-orbit rotate-time-5 toumei">
@@ -33,29 +33,27 @@
             </div>
         </div>
     </div>
-        <div class="orbit toumei">
-        </div>
-        <div class="orbit toumei">
-        </div>
-            <div class="orbit">
-                <div class="satellite rotate-orbit rotate-time-2 toumei">
-                  <div class="gravity-spot"> <!-- Nested example -->
-                    <div class="orbit-2 rotate-orbit rotate-time-2 invert toumei">
-                      アニメ
-                    </div>
-                  </div>
+    <div class="orbit toumei"></div>
+    <div class="orbit toumei"></div>
+    <div class="orbit">
+        <div class="satellite rotate-orbit rotate-time-2 toumei">
+            <div class="gravity-spot"> <!-- Nested example -->
+                <div class="orbit-2 rotate-orbit rotate-time-2 invert toumei">
+                    アニメ
                 </div>
-                <div class="satellite rotate-orbit rotate-time-2 toumei">
-                  <div class="gravity-spot"> <!-- Nested example -->
-                    <div class="orbit-2 rotate-orbit rotate-time-2 invert toumei">
-                      ゲーム
+            </div>
+        </div>
+            <div class="satellite rotate-orbit rotate-time-2 toumei">
+                <div class="gravity-spot"> <!-- Nested example -->
+					<div class="orbit-2 rotate-orbit rotate-time-2 invert toumei">
+						ゲーム
                     </div>
-                  </div>
                 </div>
-              </div>
-              <div class="orbit-12">
-                <div class="satellite rotate-orbit rotate-time-1 toumei">
-                  <div class="gravity-spot"> <!-- Nested example -->
+            </div>
+        </div>
+        <div class="orbit-12">
+            <div class="satellite rotate-orbit rotate-time-1 toumei">
+                <div class="gravity-spot"> <!-- Nested example -->
                     <div class="orbit-4 rotate-orbit rotate-time-1 invert toumei">
                         図書館情報学
                     </div>
@@ -64,12 +62,12 @@
                             <div class="gravity-spot"> <!-- Nested example -->
                                 <div class="orbit-3 rotate-orbit rotate-time-3 invert ">
                                     情報探索行動
-                                    <div class="satellite rotate-orbit rotate-time-3 toumei">
-                                      <div class="gravity-spot"> <!-- Nested example -->
-                                          <div class="orbit-3 rotate-orbit rotate-time-3 invert toumei">
-                                              情報貧困理論
-                                          </div>
-                                      </div>
+                                	<div class="satellite rotate-orbit rotate-time-3 toumei">
+                                      　<div class="gravity-spot"> <!-- Nested example -->
+                                          　<div class="orbit-3 rotate-orbit rotate-time-3 invert toumei">
+                                            情報貧困理論
+                                          　</div>
+                                      　</div>
                                     </div>
                                 </div>
                             </div>
