@@ -5,12 +5,21 @@
 <link rel="stylesheet" href="./css/fonts.css">
 <link rel="stylesheet" href="./css/container.css">
 
-| 最近の更新 |
-|:-----------|
-| [一年生の履修振り返り](/pages/firstgrade-review.md) |
+| 最近の更新                                      |
+| :----------------------------------------- |
+| [一年生の履修振り返り](/pages/firstgrade-review.md)  |
 | [二年生の履修振り返り](/pages/secandgrade-review.md) |
 
+## わたしについて
+ずきもといいます。大きな大学の小さなキャンパスで生活してます。  
+[Twitterはこちら](https://x.com/zukimo_klis23)  
+[noteはこちら](https://note.com/zukimo)  
+詳しい興味分野についての記事はこちら↓
 
+https://note.com/zukimo/n/nc597f4a6316b
+
+図書館情報学の学士を取ろうとしてます。  
+今は司書見習いみたいなことをしてます。
 ## 「ズ。～ずきもの興味について～」
 <div class="anim-box box-animate container">
     <div class="gravity-spot" >
@@ -74,7 +83,7 @@
                             </div>
                             <div class="satellite rotate-orbit rotate-time-1 toumei">
                             <div class="gravity-spot"> <!-- Nested example -->
-                                <div class="orbit-3 rotate-orbit rotate-time-3 invert  angle-180">
+                                <div class="orbit-3 rotate-orbit rotate-time-3 invert angle-180">
                                     図書館学
                                     <div class="satellite rotate-orbit rotate-time-3 angle-270 toumei">
                                         <div class="gravity-spot"> <!-- Nested example -->
@@ -132,7 +141,7 @@
                             </div>
                             <div class="satellite rotate-orbit rotate-time-1 toumei">
                             <div class="gravity-spot"> <!-- Nested example -->
-                                <div class="orbit-3 rotate-orbit rotate-time-3 invert  angle-180">
+                                <div class="orbit-3 rotate-orbit rotate-time-3 invert angle-180">
                                     教科指導法
                                     <div class="satellite rotate-orbit rotate-time-3 angle-270 toumei ">
                                         <div class="gravity-spot"> <!-- Nested example -->
@@ -157,7 +166,7 @@
                                 <div class="gravity-spot"> <!-- Nested example -->
                                     <div class="orbit-3 rotate-orbit rotate-time-3 invert">
                                         プログラミング
-                                    <div class="satellite rotate-orbit rotate-time-1  toumei">
+                                    <div class="satellite rotate-orbit rotate-time-1 toumei">
                                         <div class="gravity-spot"> <!-- Nested example -->
                                             <div class="orbit-3 rotate-orbit rotate-time-1 invert toumei">
                                                 Python
@@ -187,3 +196,6 @@
                 </div>
                 </div>
             </div>
+
+### 連絡先
+[Twitter](https://x.com/zukimo_klis23)にDMをください。たいていスパムに巻き込まれるので、返信が遅ければリプしてください。

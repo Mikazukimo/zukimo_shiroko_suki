@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "dedupe-yaml-array-values": {
       "enabled": false,
@@ -161,14 +161,14 @@
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false,
+      "enabled": true,
       "line-break-indicator": "  "
     },
     "unordered-list-style": {
