@@ -19,7 +19,7 @@ title: ずきものホームページ
 
 <div class="gravity-spot container" >
     <div class="orbit toumei ">
-    Me
+    <a href="https://x.com/zukimo_klis23">Me</a>
     </div>
     <div class="orbit">
         <div class="satellite rotate-orbit rotate-time-5 toumei">
