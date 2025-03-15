@@ -4,6 +4,20 @@
 <link rel="stylesheet" href="./css/header.css">
 <link rel="stylesheet" href="./css/fonts.css">
 <link rel="stylesheet" href="./css/container.css">
+<style>
+header {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(255, 255, 255)
+}
+</style>
+
+
+
+
+
 
 | 最近の更新 |
 |:-----------|
@@ -12,8 +26,8 @@
 
 
 ## 「ズ。～ずきもの興味について～」
-<div class="anim-box box-animate">
-    <div class="gravity-spot container" >
+<div class="anim-box box-animate container">
+    <div class="gravity-spot" >
         <div class="orbit toumei ">
         Me
         </div>
