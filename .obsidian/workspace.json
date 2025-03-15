@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/secandgrade-review.md",
-                "mode": "source",
-                "source": false
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "secandgrade-review"
+              "title": "README"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "2c2cced33739c00f",
   "lastOpenFiles": [
-    "pages/firstgrade-review.md",
+    "css/fonts.css",
+    "css/header.css",
+    "asse",
+    "css/container.css",
+    "css/conte",
+    "css/orbit.css",
+    "css",
     "pages/secandgrade-review.md",
+    "pages/firstgrade-review.md",
     "pages/pages.md",
     "pages/hutomomo.md",
     "pages/houkai-hotaru.md",

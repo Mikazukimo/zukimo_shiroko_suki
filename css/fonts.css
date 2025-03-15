@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+h1 {
+    font-family: "Noto Sans JP";
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    }
+h2 {
+    font-family: "Noto Sans JP";
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    }            
+a {
+    font-family: "Noto Sans JP";
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+label {
+    font-family: "Noto Sans JP";
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+footer {
+    font-family: "Noto Sans JP";
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+body {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    background-color: rgb(0, 32, 79) !important;
+    color: rgb(255, 255, 255)
+}
+.dashed {
+    border-style: dashed;
+  }
+  .bold {
+    border-width: 2.5px;
+  }
+  .text {
+    width: 400px; font-size: 5px; flex-direction: column; text-align: center;
+  }
+  .text1 {
+    width: 100px; font-size: 5px; flex-direction: column; text-align: center; color: black;
+  }
+  .plantet {
+   background-color: rgba(255, 255, 255, 0.5);
+  }
+  .vector,
+  [class*=vector-] {
+      border: 0.1px solid rgb(75, 51, 0)
+  }
+  .orbit,
+  [class*=orbit-] {
+    border: 0.1px solid rgba(255, 255, 255, 0.5)
+  }
+  
