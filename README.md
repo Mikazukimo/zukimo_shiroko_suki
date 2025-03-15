@@ -4,20 +4,6 @@
 <link rel="stylesheet" href="./css/header.css">
 <link rel="stylesheet" href="./css/fonts.css">
 <link rel="stylesheet" href="./css/container.css">
-<style>
-header {
-  font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-  color: rgb(255, 255, 255)
-}
-</style>
-
-
-
-
-
 
 | 最近の更新 |
 |:-----------|
