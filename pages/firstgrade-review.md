@@ -1,6 +1,4 @@
 ---
-layout: post
-categories: CATEGORY-1
 title: 一年次履修振り返り
 ---
 [トップに戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)
