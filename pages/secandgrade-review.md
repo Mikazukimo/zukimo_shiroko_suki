@@ -2,8 +2,8 @@
 title: 二年次履修振り返り
 ---
 
-<link rel="stylesheet" href="./css/header.css">
-<link rel="stylesheet" href="./css/fonts.css">
+<link rel="stylesheet" href="../css/header.css">
+<link rel="stylesheet" href="../css/fonts.css">
 
 [トップに戻る](https://mikazukimo.github.io/zukimo_shiroko_suki/)  
 最終更新：2025/3/11
