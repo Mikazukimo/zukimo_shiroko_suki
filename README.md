@@ -14,9 +14,6 @@
 ずきもといいます。大きな大学の小さなキャンパスで生活してます。  
 [Twitterはこちら](https://x.com/zukimo_klis23)  
 [noteはこちら](https://note.com/zukimo)  
-詳しい興味分野についての記事はこちら↓
-
-https://note.com/zukimo/n/nc597f4a6316b
 
 図書館情報学の学士を取ろうとしてます。  
 今は司書見習いみたいなことをしてます。
