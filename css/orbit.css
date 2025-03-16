@@ -11,6 +11,7 @@
 .gravity-spot * {
   box-sizing: border-box;
   margin: 0;
+  overflow: hidden;
 }
 .gravity-spot * ::before,
 .gravity-spot * ::after {
