@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5c972a7a3f7583e0",
+    "id": "db5d27b0c0561fd7",
     "type": "split",
     "children": [
       {
-        "id": "7617720eb5b3dde5",
+        "id": "4a7c589e655a2c63",
         "type": "tabs",
         "children": [
           {
-            "id": "a535d8e17a70fd84",
+            "id": "c5afe3508632fd47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/firstgrade-review.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "firstgrade-review"
+              "title": "新規タブ"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6598850bf72736b",
+    "id": "57398ebfdcc9d02d",
     "type": "split",
     "children": [
       {
-        "id": "206d651f4d414359",
+        "id": "62da92ce720f5309",
         "type": "tabs",
         "children": [
           {
-            "id": "27883320ae39f75d",
+            "id": "a1a1546be2617fc1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "bbbbe46fef15ef7a",
+            "id": "fe0242bca891ae08",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "cc31d7b89dc11bf9",
+            "id": "5cadad4bfd2a924f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "149765c39b35d54c",
+    "id": "171a3a291f7933fd",
     "type": "split",
     "children": [
       {
-        "id": "66bff7d987c8e236",
+        "id": "e8b01100338b20bd",
         "type": "tabs",
         "children": [
           {
-            "id": "323f096beb53e0ef",
+            "id": "7544fc8439d3b376",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/secandgrade-review.md",
+                "file": "ex_classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "secandgrade-reviewへのバックリンク"
+              "title": "ex_classesへのバックリンク"
             }
           },
           {
-            "id": "4bf3d65cc97ea942",
+            "id": "ce5afb750825b131",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/secandgrade-review.md",
+                "file": "ex_classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "secandgrade-reviewからのアウトゴーイングリンク"
+              "title": "ex_classesからのアウトゴーイングリンク"
             }
           },
           {
-            "id": "fe4805f6e53746b0",
+            "id": "62f4a10e3d757f22",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +133,18 @@
             }
           },
           {
-            "id": "cafb3d588fa66be5",
+            "id": "36f8f7ea36959cbb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/secandgrade-review.md",
+                "file": "ex_classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "secandgrade-reviewのアウトライン"
+              "title": "ex_classesのアウトライン"
             }
           }
         ]
@@ -168,28 +164,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "a535d8e17a70fd84",
+  "active": "a1a1546be2617fc1",
   "lastOpenFiles": [
-    "README.md",
-    "pages/ex_classes.md",
-    "pages/firstgrade-review.md",
-    "pages/hutomomo.md",
-    "pages/pages.md",
-    "pages/secandgrade-review.md",
-    "pages/Untitled.canvas",
-    "pages/files/2年次向け-履修登録会資料.pdf",
-    "pages/files/履修登録会資料.pdf",
-    "css/fonts.css",
-    "css/header.css",
-    "asse",
-    "css/container.css",
-    "css/conte",
-    "css/orbit.css",
-    "css",
-    "pages/houkai-hotaru.md",
-    "pages/target.md",
-    "images/secondgrade_pi.png",
-    "images/firstgrade_scoretable_2.png",
-    "images/firstgrade_scoregraf.png"
+    "pages.md",
+    "secandgrade-review.md",
+    "Untitled.canvas",
+    "files/履修登録会資料.pdf"
   ]
 }

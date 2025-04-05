@@ -5,11 +5,12 @@
 <link rel="stylesheet" href="./css/fonts.css">
 <link rel="stylesheet" href="./css/container.css">
 
-| 最近の更新                                      |
-| :----------------------------------------- |
-| [一年生の履修振り返り](/pages/firstgrade-review.md)  |
-| [二年生の履修振り返り](/pages/secandgrade-review.md) |
-| [2024年度履修登録会資料](/pages/files/履修登録会資料.pdf) |
+| 更新日時      | 最近の更新                                           |
+| --------- | :---------------------------------------------- |
+| 2025/3/15 | [一年生の履修振り返り](/pages/firstgrade-review.md)       |
+| 2025/3/15 | [二年生の履修振り返り](/pages/secandgrade-review.md)      |
+| 2025/3/24 | [2024年度履修登録会資料](/pages/files/履修登録会資料.pdf)       |
+| 2025/4/5  | [2025年度履修登録会資料](/pages/files/2年次向け-履修登録会資料.pdf) |
 
 ## わたしについて
 ずきもといいます。大きな大学の小さなキャンパスで生活してます。  
